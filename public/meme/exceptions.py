@@ -1,0 +1,6 @@
+class InvalidSchemaError(Exception):
+    ...
+
+
+class NotFoundException(Exception):
+    ...

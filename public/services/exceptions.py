@@ -1,0 +1,6 @@
+class WrongKeyException(Exception):
+    ...
+
+
+class ServerNotAvailableException(Exception):
+    ...
